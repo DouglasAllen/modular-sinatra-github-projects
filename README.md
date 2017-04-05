@@ -13,4 +13,23 @@
 * https://github.com/seanhess/Blog
 * https://github.com/sanatem/NavalBattle-Ruby
 * https://github.com/BrentonEarl/Blotter
-* 
+* https://github.com/nateware/sinatra-controller
+* https://github.com/ashleygwilliams/sinatra_random_bp
+* https://github.com/rbmrclo/sinatra-boilerplate
+* https://github.com/Seich/Sinatra-Boilerplate
+* https://github.com/drabiter/sinatra-boilerplate
+* https://github.com/mediaslave24/sinatra-boilerplate
+* https://github.com/craig552uk/sinatra-boilerplate
+* https://github.com/HorizonShadow/sinatra-boilerplate
+* https://github.com/adelevie/sinatra-boilerplate
+* https://github.com/betahikaru/sinatra-boilerplate
+* https://github.com/yuchan/sinatra-boilerplate
+* https://github.com/timwingfield/backbone-sinatra-boilerplate
+* https://github.com/webBoxio/sinatra-heroku-boilerplate
+* https://github.com/lepfhty/sprockets-sinatra-boilerplate
+* https://github.com/jmwhittaker/backbone-sinatra-bootplate
+* https://github.com/biola/sinatra-boilerplate
+* https://github.com/dariocravero/short-app
+* https://github.com/neverstopbuilding/sinatra-boilerplate
+* https://github.com/kripy/franks-famous
+*
