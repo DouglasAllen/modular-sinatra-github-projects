@@ -39,9 +39,39 @@
 * https://github.com/keating/sinatra-activerecord-demo
 * https://github.com/Sonju/sinatra_coupon
 * https://github.com/rueni/sinatra_crud
+* https://github.com/Gamble715/Ramblin-Gambler
+* https://github.com/gr4yscale/mocky
+* https://github.com/ultrasaurus/pie
+* https://github.com/laser/sinatra-best-practices
+* https://github.com/daz4126/sinatra-head-cleaner
+* https://github.com/danryan/detroit
+* https://github.com/easonhan007/momo
+* https://github.com/yudai-ez/sinatra_mock
+* https://github.com/maccman/sinatra-blog
+* https://github.com/nmattisson/sinatra-warden-api
+* https://github.com/rahij/sinatra-boilerplate
+* https://github.com/gregory/sinatra-boilerplate
+* https://github.com/beCodeMyFriend/sinatra-boilerplate
+* https://github.com/philoye/sinatra-boilerplate
+* https://github.com/raul/jet-pack
+* https://github.com/theidealab/sinatra-boilerplate
+* https://github.com/Wixel/Frank-Sinatra
+* https://github.com/agerwick/raw-sinatra-boilerplate-mongodb
+* https://github.com/Jimbojones1/sinatra-active-record
+* https://github.com/Jimbojones1/SinatraBcrypt
+* https://github.com/Jimbojones1/Example_Sinatra-coupons-crud
+* https://github.com/Jimbojones1/sinatra-rake-gulp
+* https://github.com/davidlhayes/sinatra_crud
+* https://github.com/jacobat/Text-Bounce
+* https://github.com/isaacmabueno/sinatra_crud_first
+* https://github.com/jstr/sinatra-multi-starter-kit
+* https://github.com/stevenabrooks/student_site_mockup_sinatra
+* https://github.com/aceofbassgreg/durham-stream-service
+* https://github.com/bscharm/database_admin
+* https://github.com/Phrogz/riblits
+*
+*
+* 
 *
 *
 *
-*
-*
-
