@@ -69,9 +69,48 @@
 * https://github.com/aceofbassgreg/durham-stream-service
 * https://github.com/bscharm/database_admin
 * https://github.com/Phrogz/riblits
-*
-*
-* 
-*
-*
-*
+* https://github.com/TristanMarshall/Example_Sinatra-CRUD2
+* https://github.com/mftaher/SinatraApp-OmniAuth-Demo
+* https://github.com/lorenzoplanas/heroku_sinatra_pg_spike
+* https://github.com/ashleygwilliams/angular-sinatra-spacecat
+* https://github.com/webBoxio/sinatra-activerecord-example
+* https://github.com/luckypool/activerecord-sinatra-example
+* https://github.com/jonjohn/sinatra_activerecord_template
+* https://github.com/itsliupeng/sinatra_activerecord_practice
+* https://github.com/ch4nd4n/sinatra_omniauth_demo
+* https://github.com/gingman/sinatra-compass-html5boilerplate
+* https://github.com/weldyss/sinatra_bones
+* https://github.com/sinefunc/boughtstuff-sinatra-activerecord
+* https://github.com/kunday/backbone-sinatra-activerecord
+* https://github.com/ashleygwilliams/ratpack
+* https://github.com/ogryzek/sinatra_activerecord
+* https://github.com/SpookyCorridor/crud-dy-sinatra
+* https://github.com/ga-chicago/sinatra_crud
+* https://github.com/hunterclarke/backbone-sinatra-boilerplate
+* https://github.com/jstr/sinatra-starter-kit
+* https://github.com/imtaekh/my_restaurant_app
+* https://github.com/daddz/sinatra-rspec-bundler-template
+* https://github.com/herrkessler/sinatra-starter-kit
+* https://github.com/tannerburson/multi-sinatra-sample
+* https://github.com/aninhalacerda/flufy
+* https://github.com/railsbridge/docs
+* https://github.com/erikwco/sinatra-warden-template
+* https://github.com/aaronpk/Barebones-OmniAuth-Sinatra-Site
+* https://github.com/zonpantli/Sinatra-mobile-html5-boilerplate-Compass-Coffeescript
+* https://github.com/kulbirsaini/sinatra-activerecord-angularjs-template-app
+* https://github.com/learn-co-curriculum/nyc-sinatra
+* https://github.com/neelk07/SinatraModularBoilerPlate
+* https://github.com/alisnic/sinatra_activerecord_sample
+* https://github.com/sklise/sinatra-warden-example
+* https://github.com/deansc/postcrossing-api
+* https://github.com/helloqidi/ruoshui
+* https://github.com/myjohnson23/sinatra_crud
+* https://github.com/siong1987/sinatra_grape_active_record
+* https://github.com/benweint/sinatra-ar4-newrelic
+* https://github.com/Sonju/students_sinatra_crud
+* https://github.com/JumpstartLab/sinatra-activerecord-example
+* https://github.com/6/sinatra-backbone-boilerplate
+* https://github.com/bscharm/empty-sinatra-project
+* https://github.com/sphinxtamers/sinatra_mri193_v4
+* https://github.com/kwbock/todos-react
+* https://github.com/heroku/devcenter-client-caching-sinatra-example
